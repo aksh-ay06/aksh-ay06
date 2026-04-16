@@ -15,4 +15,6 @@ Work Experience:
   - Cybersecurity Analyst @DataDrivenWV (Fall 2025) - helped build a on prem decision support system that streamlined the security audit process for SCA and ISSO's by 30% using cosine similiarity.
 
 Hobbies:
-  =
+  - Bowling,Pool,Working Out,( open to any new hobbyhopping and see if anything resonates with me.)
+  - Reading ( could be anything currently reading about wine.)
+  - Cooking
