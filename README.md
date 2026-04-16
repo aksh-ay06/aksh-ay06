@@ -1,8 +1,8 @@
 Hi,I am Akshay Patel, a research data analyst with @DataDrivenWV helping provide data driven, technical insights, and solutions.
 
-About me: 
-  -Master in Industrial Engieering WVU
-  -Bachelors in Chemical Engineering NIT Bhopal
+About me:
+  - Master in Industrial Engieering WVU
+  - Bachelors in Chemical Engineering NIT Bhopal
 
 Tech Stack:
   - Programming Languges: Python,C++,Javascript,SQL
