@@ -7,8 +7,8 @@ About me:
 Tech Stack:
   - Programming Languges: Python,C++,Javascript,SQL
   - Databases: PostgreSQL,MongoDB
-  - Machine Learning : Sckit-Learn,Pytorch
-  - Devops: Airflow.Docker
+  - Machine Learning : Sckit-Learn,Pytorch,MLflow,OpenSearch
+  - Devops: Airflow,Docker,AWS
 
 Work Experience:
   - Graduate Research Assistant @Pollution Prevention Group at WVU IMSE (January 2024-December 2025) - helped SME become more energy efficient and save money by helping them file for federal funding.
